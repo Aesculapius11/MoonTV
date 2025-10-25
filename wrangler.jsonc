@@ -1,0 +1,8 @@
+  {
+    "name": "moontv-cfworker",
+    "compatibility_date": "2025-10-20",
+    "assets": {
+     "directory": "./.vercel/output/static",
+     "not_found_handling": "404-page"
+  }
+}
